@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("wallpaperflare.com_wallpaper.jpg") no-repeat center;
+    background: url("https://images.pexels.com/photos/48884/carbon-black-charcoal-grill-briquettes-48884.jpeg?auto=compress&cs=tinysrgb&w=600") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
